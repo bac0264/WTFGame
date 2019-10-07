@@ -1,0 +1,125 @@
+
+s2_Enemy_Base_Refine_v003.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 98
+  size: 195, 147
+  orig: 195, 147
+  offset: 0, 0
+  index: -1
+chanphai1
+  rotate: false
+  xy: 266, 27
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+chanphai2
+  rotate: false
+  xy: 379, 104
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+chanphai3
+  rotate: true
+  xy: 488, 203
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+chantrai1
+  rotate: false
+  xy: 419, 83
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+chantrai2
+  rotate: false
+  xy: 173, 30
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+chantrai3
+  rotate: true
+  xy: 488, 160
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+dau1
+  rotate: false
+  xy: 333, 146
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1
+dau2
+  rotate: false
+  xy: 2, 2
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
+quan
+  rotate: true
+  xy: 419, 129
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+tayphai1
+  rotate: false
+  xy: 334, 82
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+tayphai2
+  rotate: false
+  xy: 222, 29
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+tayphai3
+  rotate: true
+  xy: 310, 23
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+taytrai1
+  rotate: false
+  xy: 114, 19
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+taytrai2
+  rotate: true
+  xy: 267, 66
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+taytrai3
+  rotate: false
+  xy: 199, 75
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+vukhi
+  rotate: false
+  xy: 199, 125
+  size: 132, 120
+  orig: 132, 120
+  offset: 0, 0
+  index: -1

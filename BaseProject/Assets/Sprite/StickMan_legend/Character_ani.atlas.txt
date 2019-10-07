@@ -1,0 +1,1383 @@
+
+Character_ani.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hero_stickmanLegend/BaVuongKiem/BaVuongKiem
+  rotate: true
+  xy: 462, 16
+  size: 55, 232
+  orig: 55, 232
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/Toe1_6
+  rotate: false
+  xy: 853, 2
+  size: 255, 183
+  orig: 255, 183
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/Tram_TinhNhatKiem
+  rotate: true
+  xy: 479, 501
+  size: 531, 248
+  orig: 531, 248
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/cut_BaVuongKiem
+  rotate: true
+  xy: 479, 73
+  size: 426, 372
+  orig: 426, 372
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/da2
+  rotate: false
+  xy: 2024, 896
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/da6
+  rotate: true
+  xy: 1500, 509
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/da7
+  rotate: true
+  xy: 781, 511
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/dam_BaVuongKiem
+  rotate: false
+  xy: 1116, 86
+  size: 392, 221
+  orig: 392, 221
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/light
+  rotate: true
+  xy: 1141, 599
+  size: 145, 463
+  orig: 145, 463
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/light3
+  rotate: false
+  xy: 1500, 321
+  size: 362, 182
+  orig: 362, 182
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/slash_cutngang_BaVuongKiem
+  rotate: false
+  xy: 2, 1034
+  size: 508, 500
+  orig: 508, 500
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/BichKiem
+  rotate: false
+  xy: 1997, 1818
+  size: 49, 228
+  orig: 49, 228
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/BichKiem2
+  rotate: false
+  xy: 1997, 1588
+  size: 49, 228
+  orig: 49, 228
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/Effect_Kiemdefault
+  rotate: true
+  xy: 853, 187
+  size: 417, 261
+  orig: 417, 261
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/Tram
+  rotate: false
+  xy: 1141, 746
+  size: 470, 231
+  orig: 470, 231
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/bang1
+  rotate: true
+  xy: 1110, 7
+  size: 77, 292
+  orig: 77, 292
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/cutngang_default
+  rotate: false
+  xy: 2, 1536
+  size: 529, 510
+  orig: 529, 510
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/ice1
+  rotate: false
+  xy: 2024, 968
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/ice4
+  rotate: false
+  xy: 423, 15
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/Effect_Kiemdefault
+  rotate: false
+  xy: 1613, 744
+  size: 409, 233
+  orig: 409, 233
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/Tram_Hoalankiem
+  rotate: false
+  xy: 1606, 505
+  size: 413, 237
+  orig: 413, 237
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/cutngang_default
+  rotate: false
+  xy: 2, 564
+  size: 475, 468
+  orig: 475, 468
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/da2
+  rotate: false
+  xy: 2024, 864
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/explo_HoaLanKiem_4
+  rotate: true
+  xy: 1864, 261
+  size: 242, 182
+  orig: 242, 182
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/explo_HoaLanKiem_7
+  rotate: true
+  xy: 512, 1332
+  size: 202, 98
+  orig: 202, 98
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/explo_HoaLanKiem_9
+  rotate: false
+  xy: 1500, 545
+  size: 98, 52
+  orig: 98, 52
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/SwordKiemDien
+  rotate: false
+  xy: 1986, 1091
+  size: 50, 235
+  orig: 50, 235
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/ToeKiem_KiemDien_1
+  rotate: true
+  xy: 1838, 2
+  size: 257, 202
+  orig: 257, 202
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/ToeKiem_KiemDien_2
+  rotate: false
+  xy: 1116, 309
+  size: 382, 288
+  orig: 382, 288
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/ToeKiem_KiemDien_3
+  rotate: false
+  xy: 988, 979
+  size: 461, 347
+  orig: 461, 347
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/ToeKiem_KiemDien_6
+  rotate: false
+  xy: 1510, 75
+  size: 326, 244
+  orig: 326, 244
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/ToeKiem_KiemDien_7
+  rotate: true
+  xy: 512, 1034
+  size: 292, 224
+  orig: 292, 224
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/Tram_Kiemdien
+  rotate: false
+  xy: 1043, 1328
+  size: 477, 248
+  orig: 477, 248
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/cutngang_kiendien
+  rotate: false
+  xy: 1043, 1578
+  size: 475, 468
+  orig: 475, 468
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/circle
+  rotate: false
+  xy: 2, 22
+  size: 328, 70
+  orig: 328, 70
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/cutngang_phongkiem
+  rotate: false
+  xy: 2, 94
+  size: 475, 468
+  orig: 475, 468
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/TinhNhatKiem
+  rotate: true
+  xy: 738, 1004
+  size: 61, 245
+  orig: 61, 245
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/TinhNhatKiem2
+  rotate: true
+  xy: 1554, 12
+  size: 61, 245
+  orig: 61, 245
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/Tram_TinhNhatKiem
+  rotate: false
+  xy: 1522, 1328
+  size: 477, 248
+  orig: 477, 248
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/circle_TinhNhatKiem
+  rotate: true
+  xy: 1914, 998
+  size: 328, 70
+  orig: 328, 70
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/slash_TinhNhatKiem
+  rotate: false
+  xy: 729, 606
+  size: 410, 371
+  orig: 410, 371
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/slash_cutngang_TinhNhatKiem
+  rotate: false
+  xy: 533, 1546
+  size: 508, 500
+  orig: 508, 500
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/ToeKiem_default_3
+  rotate: false
+  xy: 1451, 979
+  size: 461, 347
+  orig: 461, 347
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/Tram_Default
+  rotate: true
+  xy: 738, 1067
+  size: 477, 248
+  orig: 477, 248
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/Xoay2
+  rotate: false
+  xy: 612, 1331
+  size: 122, 213
+  orig: 122, 213
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/aochoang
+  rotate: true
+  xy: 988, 1402
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/appear_1
+  rotate: false
+  xy: 829, 524
+  size: 22, 80
+  orig: 22, 80
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/appear_7
+  rotate: true
+  xy: 1404, 2
+  size: 71, 148
+  orig: 71, 148
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/appear_8
+  rotate: true
+  xy: 332, 61
+  size: 31, 128
+  orig: 31, 128
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/chanphai1
+  rotate: false
+  xy: 1838, 275
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/chanphai3
+  rotate: false
+  xy: 56, 5
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/chantrai2
+  rotate: true
+  xy: 729, 508
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/chantrai3
+  rotate: true
+  xy: 1023, 1367
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/cucda1
+  rotate: false
+  xy: 1116, 599
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/cucda2
+  rotate: false
+  xy: 1500, 310
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/cucda3
+  rotate: false
+  xy: 729, 501
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/cucda4
+  rotate: true
+  xy: 2042, 253
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/cucda5
+  rotate: false
+  xy: 1126, 599
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/cucda6
+  rotate: false
+  xy: 1110, 181
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/cucda7
+  rotate: false
+  xy: 729, 1025
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/cutngang_default
+  rotate: false
+  xy: 1520, 1578
+  size: 475, 468
+  orig: 475, 468
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/dau
+  rotate: false
+  xy: 696, 2
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/e1
+  rotate: false
+  xy: 2024, 928
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/e10
+  rotate: false
+  xy: 761, 4
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/e2
+  rotate: false
+  xy: 2022, 1334
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/e3
+  rotate: false
+  xy: 332, 2
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/e4
+  rotate: true
+  xy: 462, 76
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/e6
+  rotate: false
+  xy: 2001, 1328
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/e7
+  rotate: false
+  xy: 988, 1469
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/e8
+  rotate: false
+  xy: 1914, 979
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/e9
+  rotate: false
+  xy: 1943, 979
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/sung1
+  rotate: false
+  xy: 729, 550
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/sung2
+  rotate: true
+  xy: 1986, 1006
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/sword
+  rotate: false
+  xy: 2001, 1355
+  size: 42, 231
+  orig: 42, 231
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/tayphai1
+  rotate: true
+  xy: 1556, 517
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/taytrai1
+  rotate: false
+  xy: 1801, 25
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/taytrai2
+  rotate: false
+  xy: 988, 1341
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/toc1
+  rotate: true
+  xy: 1801, 10
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/toc2
+  rotate: true
+  xy: 2, 2
+  size: 18, 52
+  orig: 18, 52
+  offset: 0, 0
+  index: -1
+
+Character_ani2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hero_stickmanLegend/BaVuongKiem/BaVuongKiem2
+  rotate: false
+  xy: 1542, 487
+  size: 55, 232
+  orig: 55, 232
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/BaVuongKiem3
+  rotate: true
+  xy: 1310, 404
+  size: 55, 232
+  orig: 55, 232
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/BaVuongKiem4
+  rotate: false
+  xy: 757, 139
+  size: 55, 232
+  orig: 55, 232
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/BaVuongKiem5
+  rotate: true
+  xy: 1131, 1509
+  size: 55, 232
+  orig: 55, 232
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/Toe1_1
+  rotate: true
+  xy: 1929, 1062
+  size: 188, 116
+  orig: 188, 116
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/Toe1_2
+  rotate: true
+  xy: 1241, 936
+  size: 233, 176
+  orig: 233, 176
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/Toe1_3
+  rotate: true
+  xy: 1117, 1171
+  size: 231, 185
+  orig: 231, 185
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/Toe1_4
+  rotate: true
+  xy: 934, 1171
+  size: 252, 181
+  orig: 252, 181
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/Toe1_5
+  rotate: true
+  xy: 1124, 440
+  size: 244, 184
+  orig: 244, 184
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/Toe1_7
+  rotate: true
+  xy: 773, 394
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/Toe1_8
+  rotate: true
+  xy: 1095, 686
+  size: 247, 177
+  orig: 247, 177
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/Toe1_9
+  rotate: true
+  xy: 1079, 935
+  size: 234, 160
+  orig: 234, 160
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/da5
+  rotate: false
+  xy: 1037, 1429
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BaVuongKiem/xoayxoay_TinhNhat
+  rotate: false
+  xy: 231, 373
+  size: 269, 254
+  orig: 269, 254
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/bang2
+  rotate: true
+  xy: 743, 1425
+  size: 125, 292
+  orig: 125, 292
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/bang3
+  rotate: true
+  xy: 1542, 1675
+  size: 125, 292
+  orig: 125, 292
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/dam_Hoalankiem
+  rotate: false
+  xy: 758, 1687
+  size: 390, 124
+  orig: 390, 124
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/ice2
+  rotate: true
+  xy: 2, 2
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/ice3
+  rotate: false
+  xy: 2015, 1019
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/BichKiem/xoayxoay_BichKiem
+  rotate: false
+  xy: 693, 1184
+  size: 239, 239
+  orig: 239, 239
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/Effect_HoaLanKiem
+  rotate: false
+  xy: 758, 1813
+  size: 409, 233
+  orig: 409, 233
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/HoaLanKiem
+  rotate: false
+  xy: 1934, 517
+  size: 50, 228
+  orig: 50, 228
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/HoaLanKiem - Copy
+  rotate: false
+  xy: 1520, 174
+  size: 50, 228
+  orig: 50, 228
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/HoaLanKiem_1
+  rotate: true
+  xy: 1651, 377
+  size: 145, 180
+  orig: 145, 180
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/da5
+  rotate: false
+  xy: 1836, 1674
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/da6
+  rotate: false
+  xy: 1327, 1453
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/da7
+  rotate: true
+  xy: 693, 1429
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/dam_Hoalankiem
+  rotate: false
+  xy: 1150, 1687
+  size: 390, 124
+  orig: 390, 124
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/explo_HoaLanKiem_1
+  rotate: false
+  xy: 1365, 1414
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/explo_HoaLanKiem_2
+  rotate: false
+  xy: 1304, 42
+  size: 197, 179
+  orig: 197, 179
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/explo_HoaLanKiem_3
+  rotate: true
+  xy: 1274, 694
+  size: 240, 184
+  orig: 240, 184
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/explo_HoaLanKiem_5
+  rotate: true
+  xy: 1419, 943
+  size: 226, 180
+  orig: 226, 180
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/explo_HoaLanKiem_6
+  rotate: true
+  xy: 1605, 735
+  size: 212, 162
+  orig: 212, 162
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/explo_HoaLanKiem_8
+  rotate: true
+  xy: 1719, 1306
+  size: 195, 74
+  orig: 195, 74
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/HoaLanKiem/xoayxoay_HoalanKiem
+  rotate: false
+  xy: 1807, 1404
+  size: 239, 239
+  orig: 239, 239
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/Effect_Kiemdien
+  rotate: true
+  xy: 2, 767
+  size: 409, 233
+  orig: 409, 233
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/ToeKiem_KiemDien_4
+  rotate: false
+  xy: 2, 1468
+  size: 370, 288
+  orig: 370, 288
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/ToeKiem_KiemDien_5
+  rotate: false
+  xy: 2, 1178
+  size: 367, 288
+  orig: 367, 288
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/ToeKiem_KiemDien_8
+  rotate: true
+  xy: 1738, 165
+  size: 210, 96
+  orig: 210, 96
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/dam_KiemDien
+  rotate: true
+  xy: 237, 790
+  size: 386, 133
+  orig: 386, 133
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/set1
+  rotate: false
+  xy: 1536, 1293
+  size: 181, 208
+  orig: 181, 208
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/set2
+  rotate: false
+  xy: 1746, 1059
+  size: 181, 191
+  orig: 181, 191
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/set3
+  rotate: false
+  xy: 1804, 537
+  size: 128, 208
+  orig: 128, 208
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/set4
+  rotate: true
+  xy: 1503, 56
+  size: 116, 208
+  orig: 116, 208
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/set5
+  rotate: true
+  xy: 1117, 1404
+  size: 103, 208
+  orig: 103, 208
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/set6
+  rotate: true
+  xy: 1935, 767
+  size: 181, 111
+  orig: 181, 111
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/xoayxoay_kiemdien
+  rotate: false
+  xy: 1310, 461
+  size: 230, 231
+  orig: 230, 231
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/Effect_PhongKiem
+  rotate: false
+  xy: 1169, 1813
+  size: 409, 233
+  orig: 409, 233
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/PhongKiem
+  rotate: false
+  xy: 1599, 488
+  size: 50, 231
+  orig: 50, 231
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/PhongKiem - Copy
+  rotate: true
+  xy: 1769, 1252
+  size: 50, 231
+  orig: 50, 231
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/ToeKiem_PhongKiem_1
+  rotate: true
+  xy: 1713, 37
+  size: 126, 107
+  orig: 126, 107
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/ToeKiem_PhongKiem_4
+  rotate: false
+  xy: 814, 2
+  size: 187, 176
+  orig: 187, 176
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/ToeKiem_PhongKiem_5
+  rotate: true
+  xy: 962, 216
+  size: 209, 179
+  orig: 209, 179
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/ToeKiem_PhongKiem_6
+  rotate: true
+  xy: 1460, 721
+  size: 220, 143
+  orig: 220, 143
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/ToeKiem_PhongKiem_7
+  rotate: false
+  xy: 1795, 1304
+  size: 213, 98
+  orig: 213, 98
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/ToeKiem_PhongKiem_8
+  rotate: false
+  xy: 1836, 319
+  size: 210, 96
+  orig: 210, 96
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/Tram_Kiemphong
+  rotate: true
+  xy: 2, 352
+  size: 413, 227
+  orig: 413, 227
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/dam_Phongkiem
+  rotate: false
+  xy: 743, 1552
+  size: 386, 133
+  orig: 386, 133
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/sword_fire_fire_01
+  rotate: false
+  xy: 1143, 237
+  size: 164, 201
+  orig: 164, 201
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/sword_fire_fire_01 - Copy
+  rotate: false
+  xy: 1769, 747
+  size: 164, 201
+  orig: 164, 201
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/sword_fire_fire_01 - Copy-Copy
+  rotate: false
+  xy: 1572, 174
+  size: 164, 201
+  orig: 164, 201
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/xoayxoay_Phongkiem
+  rotate: false
+  xy: 838, 930
+  size: 239, 239
+  orig: 239, 239
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/NangLuong
+  rotate: false
+  xy: 1957, 1002
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/ToeKiem_default_1
+  rotate: false
+  xy: 237, 681
+  size: 126, 107
+  orig: 126, 107
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/ToeKiem_default_5
+  rotate: false
+  xy: 1309, 223
+  size: 209, 179
+  orig: 209, 179
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/ToeKiem_default_6
+  rotate: true
+  xy: 1601, 949
+  size: 220, 143
+  orig: 220, 143
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/ToeKiem_default_7
+  rotate: false
+  xy: 1833, 417
+  size: 213, 98
+  orig: 213, 98
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/ToeKiem_default_8
+  rotate: false
+  xy: 1836, 221
+  size: 210, 96
+  orig: 210, 96
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/dam_TinhNhatKiem
+  rotate: true
+  xy: 1908, 1645
+  size: 401, 138
+  orig: 401, 138
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/xoayxoay_TinhNhat
+  rotate: false
+  xy: 502, 373
+  size: 269, 254
+  orig: 269, 254
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/ToeKiem_default_1
+  rotate: true
+  xy: 675, 648
+  size: 257, 202
+  orig: 257, 202
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/ToeKiem_default_2
+  rotate: false
+  xy: 2, 1758
+  size: 382, 288
+  orig: 382, 288
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/ToeKiem_default_4
+  rotate: false
+  xy: 386, 1758
+  size: 370, 288
+  orig: 370, 288
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/ToeKiem_default_5
+  rotate: false
+  xy: 374, 1468
+  size: 367, 288
+  orig: 367, 288
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/ToeKiem_default_6
+  rotate: false
+  xy: 1580, 1802
+  size: 326, 244
+  orig: 326, 244
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/ToeKiem_default_7
+  rotate: true
+  xy: 287, 79
+  size: 292, 224
+  orig: 292, 224
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/ToeKiem_default_8
+  rotate: false
+  xy: 1836, 123
+  size: 210, 96
+  orig: 210, 96
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/Xoay1
+  rotate: true
+  xy: 1746, 950
+  size: 107, 209
+  orig: 107, 209
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/Xoay3
+  rotate: false
+  xy: 814, 180
+  size: 146, 212
+  orig: 146, 212
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/Xoay4
+  rotate: false
+  xy: 1151, 26
+  size: 151, 209
+  orig: 151, 209
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/Xoay5
+  rotate: true
+  xy: 1822, 16
+  size: 105, 207
+  orig: 105, 207
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/Xoay6
+  rotate: false
+  xy: 1651, 524
+  size: 151, 209
+  orig: 151, 209
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/Xoay7
+  rotate: false
+  xy: 1003, 2
+  size: 146, 212
+  orig: 146, 212
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/Xoay8
+  rotate: true
+  xy: 513, 2
+  size: 122, 213
+  orig: 122, 213
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/Xoay_Sword
+  rotate: true
+  xy: 1986, 540
+  size: 225, 56
+  orig: 225, 56
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/appear_2
+  rotate: true
+  xy: 1536, 1171
+  size: 120, 145
+  orig: 120, 145
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/appear_4
+  rotate: true
+  xy: 958, 427
+  size: 248, 164
+  orig: 248, 164
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/appear_5
+  rotate: true
+  xy: 668, 907
+  size: 270, 168
+  orig: 270, 168
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/appear_6
+  rotate: false
+  xy: 1519, 1503
+  size: 286, 170
+  orig: 286, 170
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/body
+  rotate: false
+  xy: 1836, 1732
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/chanphai2
+  rotate: true
+  xy: 757, 109
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/chantrai1
+  rotate: false
+  xy: 1683, 1242
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/dam_default
+  rotate: false
+  xy: 1131, 1566
+  size: 386, 119
+  orig: 386, 119
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/e5
+  rotate: true
+  xy: 2010, 1365
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/e_ball
+  rotate: false
+  xy: 287, 23
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/niemchu2
+  rotate: false
+  xy: 1037, 1487
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/tayphai2
+  rotate: false
+  xy: 962, 182
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/toedat1
+  rotate: true
+  xy: 879, 677
+  size: 251, 214
+  orig: 251, 214
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/toedat2
+  rotate: false
+  xy: 372, 629
+  size: 301, 263
+  orig: 301, 263
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/toedat3
+  rotate: true
+  xy: 2, 30
+  size: 320, 283
+  orig: 320, 283
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/toedat4
+  rotate: false
+  xy: 371, 1179
+  size: 320, 287
+  orig: 320, 287
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/toedat5
+  rotate: false
+  xy: 372, 894
+  size: 294, 283
+  orig: 294, 283
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/toedat6
+  rotate: false
+  xy: 513, 126
+  size: 242, 245
+  orig: 242, 245
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/xoayxoay_default
+  rotate: false
+  xy: 1304, 1171
+  size: 230, 231
+  orig: 230, 231
+  offset: 0, 0
+  index: -1
+
+Character_ani3.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hero_stickmanLegend/KiemDien/set7
+  rotate: false
+  xy: 1813, 57
+  size: 181, 133
+  orig: 181, 133
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/set8
+  rotate: true
+  xy: 710, 9
+  size: 181, 176
+  orig: 181, 176
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/sword_fire_fire_01
+  rotate: false
+  xy: 1372, 10
+  size: 145, 180
+  orig: 145, 180
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/KiemDien/sword_fire_fire_02
+  rotate: false
+  xy: 1519, 10
+  size: 145, 180
+  orig: 145, 180
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/ToeKiem_PhongKiem_2
+  rotate: true
+  xy: 1040, 22
+  size: 168, 164
+  orig: 168, 164
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/PhongKiem/ToeKiem_PhongKiem_3
+  rotate: true
+  xy: 180, 6
+  size: 184, 176
+  orig: 184, 176
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/ToeKiem_default_2
+  rotate: true
+  xy: 1206, 22
+  size: 168, 164
+  orig: 168, 164
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/ToeKiem_default_3
+  rotate: true
+  xy: 358, 6
+  size: 184, 176
+  orig: 184, 176
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/TinhNhatKiem/ToeKiem_default_4
+  rotate: true
+  xy: 2, 3
+  size: 187, 176
+  orig: 187, 176
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/appear_3
+  rotate: true
+  xy: 888, 4
+  size: 186, 150
+  orig: 186, 150
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/niemchu1
+  rotate: true
+  xy: 536, 2
+  size: 188, 172
+  orig: 188, 172
+  offset: 0, 0
+  index: -1
+Hero_stickmanLegend/sword_fire_fire_01
+  rotate: false
+  xy: 1666, 10
+  size: 145, 180
+  orig: 145, 180
+  offset: 0, 0
+  index: -1
