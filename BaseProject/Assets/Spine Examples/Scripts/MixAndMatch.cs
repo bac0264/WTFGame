@@ -112,7 +112,7 @@ namespace Spine.Unity.Examples {
 
 			// STEP 3: APPLY AND CLEAN UP.
 			// Recommended, preferably at level-load-time: REPACK THE CUSTOM SKIN TO MINIMIZE DRAW CALLS
-			// 				IMPORTANT NOTE: the GetRepackedSkin() operation is expensive - if multiple characters
+			// 				IMPORTANT NOTE: the GetRepackedSkin() operation is expensive - if multiple CharacterTests
 			// 				need to call it every few seconds the overhead will outweigh the draw call benefits.
 			//
 			// 				Repacking requires that you set all source textures/sprites/atlases to be Read/Write enabled in the inspector.

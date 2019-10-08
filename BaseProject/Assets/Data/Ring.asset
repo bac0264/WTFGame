@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ec0b97f2e525e40a9f66fbfa52dd5b, type: 3}
+  m_Name: Ring
+  m_EditorClassIdentifier: 
+  ItemName: Ring
+  Icon: {fileID: 21300000, guid: 32997c96a91b5904aa064f961fa62937, type: 3}
+  indexInven: 2
+  DameBonus: 1
+  CritialDameBonus: 0
+  CritialPercentBonus: 4
+  HealthBonus: 0
+  DefenseBonus: 2
+  DamePercentBonus: 7
+  CritialDamePercentBonus: 8
+  CritialPercentDoubleBonus: 9
+  HealthBonusPercentBonus: 10
+  DefensePercentBonus: 11
+  equipmentType: 3
