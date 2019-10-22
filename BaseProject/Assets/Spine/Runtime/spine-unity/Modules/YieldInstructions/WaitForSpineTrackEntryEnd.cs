@@ -44,11 +44,7 @@ namespace Spine.Unity {
 			SafeSubscribe(trackEntry);
 		}
 
-        public WaitForSpineTrackEntryEnd()
-        {
-        }
-
-        void HandleEnd (TrackEntry trackEntry) {
+		void HandleEnd (TrackEntry trackEntry) {
 			m_WasFired = true;
 		}
 

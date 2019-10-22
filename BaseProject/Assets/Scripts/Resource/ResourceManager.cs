@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.UI;
 
 public class ResourceManager : MonoBehaviour
 {
@@ -57,32 +58,12 @@ public class ResourceManager : MonoBehaviour
             return Resources[(int)type];
         return null;
     }
-
-    public void ReduceGold()
+}
+public class ShowResource
+{
+    public static void Show(Text ResourceText, ResourceStat resource)
     {
-        ResourceStat Gold = getResourceNeed(TypeOfResource.Type.Gold);
-        Debug.Log("Gold: " + Gold.value + ", " + Gold.Type.type);
-        Gold.ReduceValue(1);
-        Debug.Log("ReduceGold: " + Resources[(int)TypeOfResource.Type.Gold].value + ", "
-            + Resources[(int)TypeOfResource.Type.Gold].Type.type);
-        SaveResouce();
-    }
-    public void ReduceGem()
-    {
-        ResourceStat Gem = getResourceNeed(TypeOfResource.Type.Gem);
-        Debug.Log("Gold: " + Gem.value + ", " + Gem.Type.type);
-        Gem.ReduceValue(1);
-        Debug.Log("ReduceGold: " + Resources[(int)TypeOfResource.Type.Gem].value + ", "
-            + Resources[(int)TypeOfResource.Type.Gem].Type.type);
-        SaveResouce();
-    }
-    public void ReduceExp()
-    {
-        ResourceStat Exp = getResourceNeed(TypeOfResource.Type.Exp);
-        Debug.Log("Gold: " + Exp.value + ", " + Exp.Type.type);
-        Exp.ReduceValue(1);
-        Debug.Log("ReduceGold: " + Resources[(int)TypeOfResource.Type.Exp].value + ", "
-            + Resources[(int)TypeOfResource.Type.Exp].Type.type);
-        SaveResouce();
+        if (resource != null)
+            ResourceText.text = resource.value.ToString();
     }
 }

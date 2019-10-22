@@ -37,7 +37,7 @@ namespace Spine.Unity.Examples {
 	[RequireComponent(typeof(CharacterController))]
 	public class BasicPlatformerController : MonoBehaviour {
 
-		public enum StatOfCharactere {
+		public enum CharacterState {
 			None,
 			Idle,
 			Walk,
@@ -80,7 +80,7 @@ namespace Spine.Unity.Examples {
 		float forceCrouchEndTime;
 		bool wasGrounded = false;
 
-		StatOfCharactere previousState, currentState;
+		CharacterState previousState, currentState;
 
 		void Update () {
 			float dt = Time.deltaTime;
@@ -146,25 +146,25 @@ namespace Spine.Unity.Examples {
 			controller.Move(velocity * dt);
 			wasGrounded = isGrounded;
 			
-			// Determine and store Character state
+			// Determine and store character state
 			if (isGrounded) {
 				if (doCrouch) {
-					currentState = StatOfCharactere.Crouch;
+					currentState = CharacterState.Crouch;
 				} else {
 					if (input.x == 0)
-						currentState = StatOfCharactere.Idle;
+						currentState = CharacterState.Idle;
 					else
-						currentState = Mathf.Abs(input.x) > 0.6f ? StatOfCharactere.Run : StatOfCharactere.Walk;
+						currentState = Mathf.Abs(input.x) > 0.6f ? CharacterState.Run : CharacterState.Walk;
 				}
 			} else {
-				currentState = velocity.y > 0 ? StatOfCharactere.Rise : StatOfCharactere.Fall;
+				currentState = velocity.y > 0 ? CharacterState.Rise : CharacterState.Fall;
 			}
 
 			bool stateChanged = previousState != currentState;
 			previousState = currentState;
 
 			// Animation
-			// Do not modify Character parameters or state in this phase. Just read them.
+			// Do not modify character parameters or state in this phase. Just read them.
 			// Detect changes in state, and communicate with animation handle if it changes.
 			if (stateChanged)
 				HandleStateChanged();
@@ -189,25 +189,25 @@ namespace Spine.Unity.Examples {
 			// When the state changes, notify the animation handle of the new state.
 			string stateName = null;
 			switch (currentState) {
-				case StatOfCharactere.Idle:
+				case CharacterState.Idle:
 					stateName = "idle";
 					break;
-				case StatOfCharactere.Walk:
+				case CharacterState.Walk:
 					stateName = "walk";
 					break;
-				case StatOfCharactere.Run:
+				case CharacterState.Run:
 					stateName = "run";
 					break;
-				case StatOfCharactere.Crouch:
+				case CharacterState.Crouch:
 					stateName = "crouch";
 					break;
-				case StatOfCharactere.Rise:
+				case CharacterState.Rise:
 					stateName = "rise";
 					break;
-				case StatOfCharactere.Fall:
+				case CharacterState.Fall:
 					stateName = "fall";
 					break;
-				case StatOfCharactere.Attack:
+				case CharacterState.Attack:
 					stateName = "attack";
 					break;
 				default:
